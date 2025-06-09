@@ -63,13 +63,13 @@ An **Inventory Management System** designed for tracking products, sales, and cu
 ### **Contact 📧**
 You can reach the creator of this tool at **manoranjan2050@live.com**. 📩
 
-    :moneybag: My Financial Calc - A platform for financial calculators to help manage your personal finances.
+### :moneybag: My Financial Calc - A platform for financial calculators to help manage your personal finances.
 
-    :chart_with_upwards_trend: Trading Blog - A blog for stock market insights and trading strategies.
+### :chart_with_upwards_trend: Trading Blog - A blog for stock market insights and trading strategies.
 
-    :bar_chart: Trading Portfolio - Manage and track your trading portfolio with ease.
+### :bar_chart: Trading Portfolio - Manage and track your trading portfolio with ease.
 
-    :books: Option Wiki - A knowledge hub for options trading and strategies.
+### :books: Option Wiki - A knowledge hub for options trading and strategies.
 
 
 
