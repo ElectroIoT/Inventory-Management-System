@@ -60,6 +60,11 @@ An **Inventory Management System** designed for tracking products, sales, and cu
 
 ---
 
+### **Contact 📧**
+You can reach the creator of this tool at **manoranjan2050@live.com**. 📩
+
+For more details, you can visit **[myfinancialcalc.com](http://myfinancialcalc.com)**, a website dedicated to providing a variety of **financial calculators** and tools to assist users with personal and business finance. 💸
+
 ## :floppy_disk: **Installation Guide** :floppy_disk:
 
 ### 1. **Clone the Repository**:
@@ -67,5 +72,5 @@ An **Inventory Management System** designed for tracking products, sales, and cu
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/inventory-management-system.git
+git clone https://github.com/manoranjan2050/Inventory-Management-System.git
 # Inventory-Management-System
