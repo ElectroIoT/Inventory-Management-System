@@ -63,7 +63,16 @@ An **Inventory Management System** designed for tracking products, sales, and cu
 ### **Contact 📧**
 You can reach the creator of this tool at **manoranjan2050@live.com**. 📩
 
-For more details, you can visit **[myfinancialcalc.com](http://myfinancialcalc.com)**, a website dedicated to providing a variety of **financial calculators** and tools to assist users with personal and business finance. 💸
+    :moneybag: My Financial Calc - A platform for financial calculators to help manage your personal finances.
+
+    :chart_with_upwards_trend: Trading Blog - A blog for stock market insights and trading strategies.
+
+    :bar_chart: Trading Portfolio - Manage and track your trading portfolio with ease.
+
+    :books: Option Wiki - A knowledge hub for options trading and strategies.
+
+
+
 
 ## :floppy_disk: **Installation Guide** :floppy_disk:
 
