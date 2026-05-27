@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "inventory";  // Default username for MySQL
-$password = "Master@2773";      // Default password is empty for XAMPP
+$password = "";      // Default password is empty for XAMPP
 $dbname = "inventory";
 
 // Create connection
